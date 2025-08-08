@@ -45,7 +45,7 @@ const About = () => {
             <h1 className="text-4xl md:text-6xl font-bold text-luxury-text-primary mb-6">
               Crafting Luxury
               <span className="block bg-gradient-luxury bg-clip-text text-transparent">
-                Since 1985
+                Since 2024
               </span>
             </h1>
             <p className="text-xl text-luxury-text-secondary max-w-3xl mx-auto leading-relaxed">
@@ -71,7 +71,7 @@ const About = () => {
               </h2>
               <div className="space-y-6 text-luxury-text-secondary leading-relaxed">
                 <p>
-                  Founded in 1985 by master craftsman Alexander Montclair, LUXE began as a small 
+                  Founded in 2024 by master craftsman Sofin Mansuri, LUXE began as a small 
                   atelier in the heart of Paris, dedicated to creating exceptional luxury goods 
                   for discerning clientele.
                 </p>
