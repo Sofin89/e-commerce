@@ -1,7 +1,7 @@
 # 🛍 Luxe Voyage Studio ✨
 _A modern, luxury-inspired e-commerce platform with elegant design, smooth animations, and a premium shopping experience._
 
-[![Live Demo](https://e-commerce-smoky-mu.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-gold)](https://e-commerce-smoky-mu.vercel.app/)
 
 
 ---
