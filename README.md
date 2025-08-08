@@ -1,47 +1,48 @@
+# 🛍 Luxe Voyage Studio ✨
+_A modern, luxury-inspired e-commerce platform with elegant design, smooth animations, and a premium shopping experience._
+
+[![Live Demo](https://e-commerce-smoky-mu.vercel.app/)
 
 
-## Project info
+---
+
+## ✨ Highlights
+
+- **Premium UI Design** – Gold accents, modern typography, and smooth hover effects  
+- **Framer Motion Animations** – Page transitions and product animations  
+- **Responsive Design** – Optimized for mobile, tablet, and desktop  
+- **Dark & Light Mode** – Toggle for an adaptive experience  
+- **API-Powered Product Listings** – Live product updates  
+- **Secure Authentication** – Clerk / Getform integration for login & signup  
+- **Cart & Wishlist System** – Persistent storage using `localStorage`  
+
+---
 
 
 
-**Use your preferred IDE**
+## 🛠 Tech Stack
 
+- ⚡ **Frontend:** Vite + React + TypeScript  
+- 🎨 **UI:** Tailwind CSS + shadcn-ui  
+- 🎞 **Animations:** Framer Motion  
+- 📦 **Package Manager:** npm  
 
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Installation & Setup
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/Sofin89/e-commerce.git
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 2️⃣ Navigate into the folder
+cd e-commerce
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
 
