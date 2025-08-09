@@ -17,7 +17,7 @@ import Layout from "./components/Layout";
 const queryClient = new QueryClient();
 
 // Clerk publishable key - in a real app, this would come from environment variables
-const CLERK_PUBLISHABLE_KEY = "pk_test_Y2hhcm1pbmctZm94LTM2LmNsZXJrLmFjY291bnRzLmRldiQ";
+const CLERK_PUBLISHABLE_KEY = "pk_test_aW50ZW5zZS1rb2ktMzMuY2xlcmsuYWNjb3VudHMuZGV2JA";
 
 if (!CLERK_PUBLISHABLE_KEY) {
   throw new Error("Missing Clerk Publishable Key");
